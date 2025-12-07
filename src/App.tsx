@@ -73,7 +73,7 @@ const MoonlightCafe = () => {
               </button>
             ))}
             <a
-              href="https://wa.me/916309474794?text=Hi,%20I%20would%20like%20to%20book%20a%20slot"
+              href="https://wa.me/916309474794?text=Hello%20Moonlight%E2%9D%A4%EF%B8%8F%2C%0AI%20would%20like%20to%20book%20a%20box%20cricket%20slot%20for%3A%0A%0ADate%3A%20%0ATime%3A%20%0ATeam%20Size%3A%20"
               className="border border-yellow-500 text-yellow-400 px-4 py-2 rounded-full hover:bg-yellow-500 hover:text-black transition-all"
             >
               Book Slot
@@ -129,7 +129,8 @@ const MoonlightCafe = () => {
           </p>
 
           <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
-            <a href="https://wa.me/916309474794?text=Hi,%20I%20would%20like%20to%20book%20a%20slot" target="_blank" rel="noopener noreferrer" className={buttonPrimary}>
+            <a href="https://wa.me/916309474794?text=Hello%20Moonlight%E2%9D%A4%EF%B8%8F%2C%0AI%20would%20like%20to%20book%20a%20box%20cricket%20slot%20for%3A%0A%0ADate%3A%20%0ATime%3A%20%0ATeam%20Size%3A%20
+" target="_blank" rel="noopener noreferrer" className={buttonPrimary}>
               <Calendar size={20} />
               Book Now
             </a>
@@ -276,7 +277,8 @@ const MoonlightCafe = () => {
           </div>
           <h2 className="text-3xl md:text-5xl font-bold text-white mb-8">Ready to hit the pitch?</h2>
           <div className="flex justify-center">
-            <a href="https://wa.me/916309474794?text=Hi,%20I%20would%20like%20to%20book%20a%20slot" target="_blank" rel="noopener noreferrer" className={`${buttonPrimary} text-lg px-10 py-4`}>
+            <a href="https://wa.me/916309474794?text=Hello%20Moonlight%E2%9D%A4%EF%B8%8F%2C%0AI%20would%20like%20to%20book%20a%20box%20cricket%20slot%20for%3A%0A%0ADate%3A%20%0ATime%3A%20%0ATeam%20Size%3A%20
+" target="_blank" rel="noopener noreferrer" className={`${buttonPrimary} text-lg px-10 py-4`}>
               Book Your Slot Now <ArrowRight size={20} />
             </a>
           </div>
@@ -317,7 +319,8 @@ const MoonlightCafe = () => {
                   <MapPin size={20} />
                   Open in Google Maps
                 </a>
-                <a href="https://wa.me/916309474794?text=Hi,%20I%20would%20like%20to%20book%20a%20slot" target="_blank" rel="noopener noreferrer" className={`${buttonSecondary} justify-center`}>
+                <a href="https://wa.me/916309474794?text=Hello%20Moonlight%E2%9D%A4%EF%B8%8F%2C%0AI%20would%20like%20to%20book%20a%20box%20cricket%20slot%20for%3A%0A%0ADate%3A%20%0ATime%3A%20%0ATeam%20Size%3A%20
+" target="_blank" rel="noopener noreferrer" className={`${buttonSecondary} justify-center`}>
                   <Calendar size={20} />
                   Book a Slot
                 </a>
